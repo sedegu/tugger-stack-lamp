@@ -1,4 +1,4 @@
-FROM debian:7.5
+FROM debian:jessie
 
 MAINTAINER Joschi 127 "127.joschi@gmail.com"
 
